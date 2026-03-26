@@ -16,4 +16,7 @@ This game is a modern remake of the Bomberman series. It is a local multiplayer 
 
 **Animation**: The game features multiple animation effects to enhance visual feedback. Firstly, player sprites change based on movement direction, simulating running. Second, players blink when hit by a bomb blast to indicate damage. Third, bombs pulsate to signal their countdown before detonation. Finally, when a player loses all lives, a death animation plays before the game ends. 
 
-https://github.com/user-attachments/assets/559e04f9-ece1-400a-af79-311c8c17f596
+
+
+https://github.com/user-attachments/assets/22888754-ecfd-46f0-b351-0e1ad7cb68e5
+
